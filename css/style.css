@@ -29,3 +29,8 @@ h2 {
     color: hsl(209, 69%, 74%);
     font-size: 40px;
 }
+
+h3 {
+    color: hsl(209, 55%, 42%);
+    text-align: center;
+}
